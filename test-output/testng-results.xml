@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72817" started-at="2020-12-02T16:33:14 IST" finished-at="2020-12-02T16:34:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72817" started-at="2020-12-02T16:33:14 IST" finished-at="2020-12-02T16:34:27 IST">
+      <class name="com.nobtoker.tests.TestCase">
+        <test-method status="PASS" signature="loadProperty()[pri:0, instance:com.nobtoker.tests.TestCase@2e4b8173]" name="loadProperty" is-config="true" duration-ms="7" started-at="2020-12-02T16:33:14 IST" finished-at="2020-12-02T16:33:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperty -->
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.nobtoker.tests.TestCase@2e4b8173]" name="loadProperties" is-config="true" duration-ms="0" started-at="2020-12-02T16:33:14 IST" finished-at="2020-12-02T16:33:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="reportIssue()[pri:0, instance:com.nobtoker.tests.TestCase@2e4b8173]" name="reportIssue" duration-ms="72782" started-at="2020-12-02T16:33:14 IST" finished-at="2020-12-02T16:34:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportIssue -->
+      </class> <!-- com.nobtoker.tests.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
